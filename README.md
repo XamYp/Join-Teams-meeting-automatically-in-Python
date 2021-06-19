@@ -15,7 +15,8 @@ Ce script va se connecter automatiquement à un compte office365 (nécessite une
  1. Télécharger le répertoire git
  2. Installer python (dernière version de préférence)
  3. pip install -r requirements.txt
- 4. python bot_teams.py
+ 4. Modifier les champs dans config.ini
+ 5. python bot_teams.py
 
 # Demonstration
 
@@ -41,5 +42,6 @@ This script will automatically connect to an office365 account (requires an orga
  1. Download git repository
  2. Download python (last version)
  3. pip install -r requirements.txt
- 4. python bot_teams.py
+ 4. Edit fields in config.ini
+ 5. python bot_teams.py
 
