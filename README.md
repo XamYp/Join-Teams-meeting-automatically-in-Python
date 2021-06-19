@@ -19,7 +19,9 @@ Ce script va se connecter automatiquement à un compte office365 (nécessite une
 
 # Demonstration
 
-[![Youtube Video](https://img.youtube.com/vi/NkmAI_Abg48/0.jpg)](https://youtu.be/NkmAI_Abg48)
+![Gif Demonstration](https://media.giphy.com/media/9mT2nVEeUaC1eFpuL8/giphy.gif)
+
+[Demonstration Youtube](https://youtu.be/NkmAI_Abg48)
 
 🇬🇧
 
